@@ -1,0 +1,11 @@
+@import url(css/container.css);
+
+body{
+  padding-top: 200px;
+  margin: 0;
+  background-color: rgb(240, 240, 240);
+}
+
+.text-center {
+  text-align: center;
+}
