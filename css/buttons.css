@@ -1,0 +1,31 @@
+.btn-red{
+  text-decoration: none;
+  font-size: 25px;
+  background-color: #ed7f7f;
+  padding: 5px 25px;
+  color: #020202;
+  border-radius: 3px;
+  transition: 1s;
+}
+
+.btn-red:hover{
+  background-color: #9b8989;
+}
+
+.btn-white {
+  text-decoration: none;
+  font-size: 28px;
+  font-weight: lighter;
+  background-color: transparent;
+  padding: 5px 25px;
+  color: rgb(34, 88, 34);
+  border-radius: 50px;
+  border: 1px solid rgb(84, 138, 84);
+  box-shadow: aliceblue;
+  transition: 1s;
+}
+
+.btn-white:hover{
+  color:#ed7f7f;
+  border: 1px solid rgb(17, 37, 17);
+}
