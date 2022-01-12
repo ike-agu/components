@@ -1,0 +1,16 @@
+.banner{
+  color: white;
+  background-size: cover;
+  padding: 150px 0; /* adds padding to top and bottom of my banner rtand alsoo centers all content of my banner.*/
+}
+
+.banner h1 {
+  font-size: 55px;
+}
+
+.banner p{
+  font-size: 24px;
+  font-size: lighter;
+  margin-bottom: 50px;
+  text-shadow: 2px 2px 3px rgb(0,0,0,0.5%); /* puts shadow around your text for readerbility */
+}

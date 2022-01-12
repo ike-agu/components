@@ -1,6 +1,7 @@
 @import url("container.css");
 @import url("avatar.css");
 @import url("buttons.css");
+@import url("banner.css");
 
 body{
   padding-bottom: 200px;
