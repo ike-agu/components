@@ -1,0 +1,63 @@
+.card-category{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  background-size: cover;
+  border-radius: 8px;
+  padding: 90px;
+  font-size: 25px;
+  box-shadow: 0 5 15px rgba(0,0,0,1);
+  text-shadow: 2px 2px 3px rgba(0,0,0, 1);
+}
+
+/* card product */
+
+.card-product{
+display: flex;
+border: 1px solid rgba(0,0,0,0.07);
+align-items: center;
+background: white;
+}
+
+.card-product img {
+   height: 150px;
+   object-fit: cover;
+   margin-right: 15px;
+}
+
+.card-product h2 {
+  margin: 0;
+}
+
+.card-product p {
+  margin: 0;
+}
+
+
+/* card coffee  */
+
+.card-coffee{
+border: 1px solid rgba(0,0,0,0.07);
+margin: 0 auto;
+
+}
+.card-coffee img  {
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+}
+
+.card-coffee-description{
+  padding: 19px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.card-coffee-description h2 {
+  margin: 20px 0 5px 0;
+}
+.card-coffee-description p {
+    margin: 0 0 15px 0;
+}

@@ -2,6 +2,7 @@
 @import url("avatar.css");
 @import url("buttons.css");
 @import url("banner.css");
+@import url("card.css");
 
 body{
   padding-bottom: 200px;
